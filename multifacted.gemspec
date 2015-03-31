@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Multifacted::VERSION
   spec.authors       = ["Keith Webber"]
   spec.email         = ["kwebber@backupify.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Multifacted gem - spike"
+  spec.description   =  "Multifacted gem - spike"
   spec.homepage      = ""
   spec.license       = "MIT"
 
